@@ -1,0 +1,32 @@
+product/cart					api se tra ve nhung product có trong cart	"Tao obj gồm nhưng product đã mua và lưu vào local như sau,  trang cart goi local ra, gửi qua api, để trả về những product đã mua và map ra table
+{id: qty, id: qty....}
+
+ex: {""18"":1, ""19"": 2} "	"Tao obj gồm nhưng product đã mua và lưu vào local như sau,  trang cart goi local ra, gửi qua api, để trả về những product đã mua và map ra table
+{id: qty, id: qty....}
+
+ex: {""18"":1, ""19"": 2} "					
+
+
+"- click vao add to wishlist thi đưa product này vao trang wishlist, 
+  tuong tu delete wishlist thì xoá product đó ra khoi loal
+- Phan hien thi qty len icon thi dung context
+
+- api wishlist se tra ve all product. Minh se lay mảng gồm những ID yêu thích 
+và lọc (dug ham fillter) trong cái data product Api trả về, 
+cái nào có thi lấy product đó ra dua vao array mới. 
+Sau do map ra tương tự trang Home"					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
